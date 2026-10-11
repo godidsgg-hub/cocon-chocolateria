@@ -1,0 +1,18 @@
+COCON - Chocolateria artesana (web estatica publica)
+
+CONTENIDO
+- index.html  -> la web completa (videos, imagenes y estilos van dentro del propio archivo)
+
+COMO PUBLICARLA (sera publica para cualquiera que abra la URL)
+1. Sube index.html a la carpeta raiz de tu hosting (public_html en Hostinger, o arrastra
+   la carpeta a Netlify / Cloudflare Pages / Vercel / GitHub Pages).
+2. Abre tu dominio: la web carga sin login ni permisos.
+
+ANTES DE PUBLICAR, EDITA EN index.html
+- Telefono de WhatsApp: busca 34600000000 y pon el numero real (con prefijo, sin +).
+- Redes sociales: los enlaces href="#" del pie son placeholders; pon tus URLs.
+- Mapa/direccion: los enlaces a maps.google.com/?q=Murcia.
+
+NOTAS
+- Solo usa Google Fonts (Fraunces y Manrope) desde internet; el resto es autonomo.
+- Pesa unos 11 MB; si tu hosting carga lento, comprime los videos.
