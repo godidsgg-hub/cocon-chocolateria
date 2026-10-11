@@ -1,13 +1,14 @@
-# COCON Chocolatería Artesana
+# COCON — Chocolatería artesana (Murcia)
 
-Web estática de la chocolatería COCON (Murcia).
+Web estática pública.
 
-## Publicación
+**URL permanente:** https://godidsgg-hub.github.io/cocon-chocolateria/
 
-Esta web se publica con **GitHub Pages**.
+## Cómo actualizar el contenido
 
-URL: https://godidsgg-hub.github.io/cocon-chocolateria/
+1. Ve a este repositorio.
+2. Haz clic en **Add file** → **Upload files**.
+3. Arrastra el archivo `index.html` (el de ~6 MB optimizado).
+4. Escribe un mensaje de commit y confirma.
 
-### Cómo actualizar
-1. Sube el archivo `index.html` (el grande) arrastrándolo en la interfaz de GitHub.
-2. Espera 1-2 minutos y la web estará actualizada.
+GitHub Pages se actualizará automáticamente en 1-2 minutos.
